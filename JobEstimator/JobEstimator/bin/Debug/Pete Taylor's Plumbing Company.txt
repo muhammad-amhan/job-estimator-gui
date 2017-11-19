@@ -1,0 +1,13 @@
+System.Windows.Forms.Label, Text: Pete Taylor's Plumbing Company
+Job Quote Estimate 
+
+---------------------------
+0 hours @ £40 per hr = £0
+0 miles @ £1 per mile = £0
+
+-------- Materials --------
+
+----- Final Costings ------
+Sub total: £ 0
+VAT: £ 0
+Final total: £ 0

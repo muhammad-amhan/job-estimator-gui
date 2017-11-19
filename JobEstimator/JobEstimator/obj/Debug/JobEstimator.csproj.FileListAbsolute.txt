@@ -1,0 +1,70 @@
+d:\documents\visual studio 2015\Projects\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe.config
+d:\documents\visual studio 2015\Projects\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe
+d:\documents\visual studio 2015\Projects\JobEstimator\JobEstimator\bin\Debug\JobEstimator.pdb
+d:\documents\visual studio 2015\Projects\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\JobEstimator\JobEstimator\obj\Debug\JobEstimator.frmMain.resources
+d:\documents\visual studio 2015\Projects\JobEstimator\JobEstimator\obj\Debug\JobEstimator.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\JobEstimator\JobEstimator\obj\Debug\JobEstimator.exe
+d:\documents\visual studio 2015\Projects\JobEstimator\JobEstimator\obj\Debug\JobEstimator.pdb
+C:\Users\123\Downloads\C#\JobEstimatorC# EXEMPLAR USE ONLY\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe.config
+C:\Users\123\Downloads\C#\JobEstimatorC# EXEMPLAR USE ONLY\JobEstimator\JobEstimator\obj\Debug\JobEstimator.exe
+C:\Users\123\Downloads\C#\JobEstimatorC# EXEMPLAR USE ONLY\JobEstimator\JobEstimator\obj\Debug\JobEstimator.pdb
+C:\Users\123\Downloads\C#\JobEstimatorC# EXEMPLAR USE ONLY\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe
+C:\Users\123\Downloads\C#\JobEstimatorC# EXEMPLAR USE ONLY\JobEstimator\JobEstimator\bin\Debug\JobEstimator.pdb
+C:\Users\123\Downloads\C#\JobEstimatorC# EXEMPLAR USE ONLY\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csprojResolveAssemblyReference.cache
+C:\Users\123\Downloads\C#\JobEstimatorC# EXEMPLAR USE ONLY\JobEstimator\JobEstimator\obj\Debug\JobEstimator.frmMain.resources
+C:\Users\123\Downloads\C#\JobEstimatorC# EXEMPLAR USE ONLY\JobEstimator\JobEstimator\obj\Debug\JobEstimator.Properties.Resources.resources
+C:\Users\123\Downloads\C#\JobEstimatorC# EXEMPLAR USE ONLY\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csproj.GenerateResource.Cache
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe.config
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.exe
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.pdb
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\bin\Debug\JobEstimator.pdb
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csprojResolveAssemblyReference.cache
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.frmMain.resources
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.Properties.Resources.resources
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csproj.GenerateResource.Cache
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.Help.resources
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.About.resources
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.InputInfo.resources
+C:\Users\123\Downloads\C#\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.howItWorks.resources
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe.config
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.exe
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.pdb
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\bin\Debug\JobEstimator.pdb
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csprojResolveAssemblyReference.cache
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.About.resources
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.frmMain.resources
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.Help.resources
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.howItWorks.resources
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.InputInfo.resources
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.Properties.Resources.resources
+\\nwkcollege.ac.uk\studhome\home\00001110\Downloads\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csproj.GenerateResource.Cache
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe.config
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.exe
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.pdb
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\bin\Debug\JobEstimator.pdb
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csprojResolveAssemblyReference.cache
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.About.resources
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.frmMain.resources
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.Help.resources
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.howItWorks.resources
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.InputInfo.resources
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.Properties.Resources.resources
+F:\What I had on desktop\Computing and Technology\My projects\jobEstimator (Csharp)\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimatorC# MINE\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csproj.GenerateResource.Cache
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe.config
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\obj\Debug\JobEstimator.exe
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\obj\Debug\JobEstimator.pdb
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\bin\Debug\JobEstimator.exe
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\bin\Debug\JobEstimator.pdb
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\obj\Debug\JobEstimator.About.resources
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\obj\Debug\JobEstimator.frmMain.resources
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\obj\Debug\JobEstimator.Help.resources
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\obj\Debug\JobEstimator.howItWorks.resources
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\obj\Debug\JobEstimator.InputInfo.resources
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\obj\Debug\JobEstimator.Properties.Resources.resources
+C:\Users\123\Desktop\WorkSpace\MyProjects\jobEstimator (Csharp)\JobEstimator\JobEstimator\obj\Debug\JobEstimator.csproj.GenerateResource.Cache
